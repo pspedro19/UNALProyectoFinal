@@ -8,3 +8,7 @@ Esta plantilla proporciona las siguientes carpetas y archivos:
 * `docs`: en esta carpeta se encuentran las plantillas de los documentos definidos en la metodología.
 * `scripts`: esta carpeta debe contener los scripts/notebooks que se ejecutarán.
 * `pyproject.toml`: archivo de definición del proyecto en Python.
+
+* archivos entregados en:
+* \docs\data
+* \scripts\data_acquisition
