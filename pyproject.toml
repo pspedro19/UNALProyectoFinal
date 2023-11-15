@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "analisis-consumo-electrico"
+version = "0.1.0"
+description = "Proyecto para analizar el consumo eléctrico en hogares."
+authors = ["Pedro Perez <96pedroelias96@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.3.3"
+numpy = "^1.21.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
